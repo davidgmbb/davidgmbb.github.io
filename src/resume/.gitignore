@@ -1,0 +1,15 @@
+*.log
+*.pdf
+*.aux
+*.cls
+*.out
+*.synctex.gz
+*.4ct
+*.4tc
+*.css
+*.html
+*.idv
+*.lg
+*.tmp
+*.xref
+*.dvi
